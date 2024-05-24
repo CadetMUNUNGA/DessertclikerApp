@@ -1,4 +1,4 @@
-package com.example.dessertcliker.ui.theme
+package com.example.dessertclicker.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
